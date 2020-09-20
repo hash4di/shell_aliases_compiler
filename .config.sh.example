@@ -1,26 +1,16 @@
 export SOURCES="
-  git@github.com:pr0d1r2/plexus.git:bash_profile.d
-  git@github.com:pr0d1r2/osx_crond.git:shell_aliases.d
-  git@github.com:pr0d1r2/ruby_dev_shell_aliases.git:.
-  git@github.com:pr0d1r2/docker_shell_aliases.git:shell_aliases.d
-  git@github.com:pr0d1r2/git_shell_aliases.git:.
-  git@github.com:pr0d1r2/github_shell_aliases.git:.
-  git@github.com:pr0d1r2/osx_shell_aliases.git:.
-  git@github.com:pr0d1r2/common_shell_aliases.git:.
-  git@github.com:pr0d1r2/media_shell_aliases.git:.
-  git@github.com:pr0d1r2/poe_shell_aliases.git:.
-  git@github.com:pr0d1r2/linkedin_shell_aliases.git:shell_aliases.d
-  git@github.com:pr0d1r2/torrent_shell_aliases.git:.
-  git@github.com:pr0d1r2/gentoo_package_masking.git:shell_aliases.d
-  git@github.com:pr0d1r2/ubercommit.git:shell_aliases.d
-  git@gitlab.com:pr0d1r2/tt_shell_aliases.git:.
-  git@gitlab.com:pr0d1r2/infrastructure_shell_aliases.git:.
-  git@gitlab.com:doubledrones/doubledrones_shell_aliases.git:.
-  git@gitlab.com:pr0d1r2/ttl.git:shell_aliases.d
-  git@gitlab.com:pr0d1r2/data_shell_aliases.git:.
-  git@gitlab.com:pr0d1r2/allegro_shell_aliases.git:shell_aliases.d
-  git@gitlab.com:pr0d1r2/gitlab_shell_aliases.git:shell_aliases.d
-  git@gitlab.com:pr0d1r2/rua.git:shell_aliases.d
+  git@github.com:hash4di/plexus.git:bash_profile.d
+  git@github.com:hash4di/osx_crond.git:shell_aliases.d
+  git@github.com:hash4di/ruby_dev_shell_aliases.git:.
+  git@github.com:hash4di/git_shell_aliases.git:.
+  git@github.com:hash4di/github_shell_aliases.git:.
+  git@github.com:hash4di/osx_shell_aliases.git:.
+  git@github.com:hash4di/common_shell_aliases.git:.
+  git@github.com:hash4di/media_shell_aliases.git:.
+  git@github.com:hash4di/poe_shell_aliases.git:.
+  git@github.com:hash4di/torrent_shell_aliases.git:.
+  git@github.com:hash4di/gentoo_package_masking.git:shell_aliases.d
+  git@github.com:hash4di/ubercommit.git:shell_aliases.d
   $HOME/projects/local_shell_aliases
   $HOME/projects/shell_aliases_compiler/shell_aliases.d
   $HOME/.toptoolkit.sh
